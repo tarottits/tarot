@@ -1,0 +1,6 @@
+{
+  "name": "Tarot",
+  "tagline": "",
+  "body": "<form method=\"post\" action=\"http://www.tarotgoddess.com/cgi-bin/tarot/tarot.cgi\" id=\"TarotForm\" name=\"TarotForm\">\r\n  <input type=\"HIDDEN\" value=\"../../tarot/deck1/cc/vars.cgi\" name=\"TarotDef\">\r\n\r\n  <input type=\"hidden\" size=\"25\" name=\"Name\">\r\n\r\n  <input type=\"hidden\" size=\"55\" name=\"Question\" value=\"arse\">\r\n\r\n  <input type=\"SUBMIT\" value=\"get reading\" name=\"Submit1\">\r\n</form>\r\n<script type=\"text/javascript\">\r\ndocument.getElementById(\"TarotForm\").submit();\r\n</script>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
